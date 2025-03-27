@@ -8,7 +8,7 @@ For project details, please refer to the PDF on BlackBoard.
 
 ```bash
 # Clone the project
-git clone https://github.com/EnderturtleOrz/CSC3050-2025-Spring-Project-3.git
+git clone https://github.com/LaNasilDark/CSC3050-2025-Spring-Project-3
 cd CSC3050-2025-Spring-Project-3
 
 # Make a build folder
